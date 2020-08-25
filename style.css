@@ -1,0 +1,45 @@
+<style>
+body {
+    background-color: #A9A9A9;
+    color: #264653;
+}
+
+h1 {
+    font-family: Poppins;
+   
+}
+
+.sobre {
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.nacionalidade {
+    font-style: italic;
+    font-weight: 60;
+}
+
+.habi_tittle{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.habi_1{
+    font-size: 20px;
+}
+
+.habi_2{
+    font-size: 23px;
+}
+
+.habi_3{
+    font-size: 26px;
+}
+
+.habi_4{
+    font-size: 29px;
+    font-weight: bold;
+}
+
+</style>
