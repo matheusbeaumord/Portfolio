@@ -1,18 +1,19 @@
-<style>
 body {
-    background-color: #A9A9A9;
+    font-family: Poppins;
+    background-color: #f5f5f5;
     color: #264653;
 }
-
-h1 {
-    font-family: Poppins;
-   
+.nome {
+    height: auto;
+    background-color: #FFA500;
+    font-size: 25px;
 }
-
 .sobre {
     font-family: sans-serif;
     font-style: italic;
     font-size: 20px;
+    color: #264653;
+    
 }
 
 .nacionalidade {
@@ -42,4 +43,13 @@ h1 {
     font-weight: bold;
 }
 
-</style>
+.nome {
+    height: auto;
+    background-color: #FFA500;
+}
+
+.foto {
+    float: left;
+    width: auto;
+
+}
